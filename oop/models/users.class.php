@@ -10,6 +10,4 @@ class users extends Registration {
     }
 
 }
-$user1 = new users();
-$user1->setName("Sammy");
-$user2 = new users();
+
